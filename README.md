@@ -8,12 +8,12 @@ Which is included as a SQL file named usersdb under the database folder.
 
 # Documents
 Below are overleaf project documents and sprint/team meeting write ups. 
-Project Proposal: https://www.overleaf.com/read/ybkfnwynmvhz
-System Requirements Specification: https://www.overleaf.com/read/cshsppxbdmxy
-Project Charter: https://www.overleaf.com/read/fmstspnbkbcj
-Architectural Design Specification: https://www.overleaf.com/read/sktjcyrwrqzf
-Detailed Design Document: https://www.overleaf.com/read/mkrhptwrvnvr
-System Test Plan: https://www.overleaf.com/read/wnnfhshnpmzp
+1. Project Proposal: https://www.overleaf.com/read/ybkfnwynmvhz
+2. System Requirements Specification: https://www.overleaf.com/read/cshsppxbdmxy
+3. Project Charter: https://www.overleaf.com/read/fmstspnbkbcj
+4. Architectural Design Specification: https://www.overleaf.com/read/sktjcyrwrqzf
+5. Detailed Design Document: https://www.overleaf.com/read/mkrhptwrvnvr
+6. System Test Plan: https://www.overleaf.com/read/wnnfhshnpmzp
 
 Team Meeting Reports
 1. https://www.overleaf.com/read/fnjhzrkmdmwh
