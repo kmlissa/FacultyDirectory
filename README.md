@@ -41,5 +41,17 @@ Sprints
 
 
 # Photos
-Faculty Directory Page: ![image](https://user-images.githubusercontent.com/35239216/122238111-e0133d80-ce8d-11eb-94f4-f4189ff4781e.png)
+Faculty Directory Page: 
+![image](https://user-images.githubusercontent.com/35239216/122238111-e0133d80-ce8d-11eb-94f4-f4189ff4781e.png)
+
+
+Sign In pages: 
+![image](https://user-images.githubusercontent.com/35239216/122238254-fd480c00-ce8d-11eb-9669-009cfb037924.png)
+![image](https://user-images.githubusercontent.com/35239216/122238279-02a55680-ce8e-11eb-98cd-3544412061b8.png)
+
+
+Events Page: 
+![image](https://user-images.githubusercontent.com/35239216/122238333-0b962800-ce8e-11eb-9245-4b62fbe93faf.png)
+
+
 
