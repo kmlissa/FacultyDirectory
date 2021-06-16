@@ -38,3 +38,8 @@ Sprints
 4. https://www.overleaf.com/read/bnbjjhvzwpfr
 5. https://www.overleaf.com/read/qpscqkpmtknn
 6. https://www.overleaf.com/read/scrwgqdzwnrz
+
+
+# Photos
+Faculty Directory Page: ![image](https://user-images.githubusercontent.com/35239216/122238111-e0133d80-ce8d-11eb-94f4-f4189ff4781e.png)
+
