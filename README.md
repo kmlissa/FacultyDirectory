@@ -42,6 +42,7 @@ Sprints
 
 # Photos
 Faculty Directory Page: 
+
 ![image](https://user-images.githubusercontent.com/35239216/122238111-e0133d80-ce8d-11eb-94f4-f4189ff4781e.png)
 
 
