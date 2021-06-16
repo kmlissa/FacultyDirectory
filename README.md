@@ -58,4 +58,8 @@ Events Page:
 ![image](https://user-images.githubusercontent.com/35239216/122238333-0b962800-ce8e-11eb-9245-4b62fbe93faf.png)
 
 
+Front Page with moving text:
+
+![image](https://user-images.githubusercontent.com/35239216/122251746-ca574580-ce98-11eb-969b-58766260fa25.png)
+
 
