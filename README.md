@@ -1,4 +1,4 @@
-# SeniorProjectGroup1
+# Faculty Directory Website
 Files for sections for our home page, faculty directory page, events page, and sign in page. 
 PHP was used to access our database. 
 
